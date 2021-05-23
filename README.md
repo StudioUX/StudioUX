@@ -1,6 +1,7 @@
 ```
-const name = @StudioUX;
-var spacing = spaces > tabs;
+const name        = @StudioUX;
+var spacingRules  = spaces > tabs;
+
 
 howToReachMeVia (email){ 
    ux@10xl.co.nz
